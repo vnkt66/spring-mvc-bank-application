@@ -57,6 +57,7 @@ Access http://localhost:8080/BankSpringMVC/transfer.html
 ## Note
 
 - First 11 Transactions added to the database for just sample quering it doesn't count on bankBalance.
+- In models Transaction.java is not related to the project.
 - For now transfer deducts 1000 from bankBalance from a particular user.
 - The application can be extended to map user with transactions, add columns like receiver_id to the transactions to further add complexity.
 
